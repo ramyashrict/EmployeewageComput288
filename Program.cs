@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Employeewagecomput288
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("WEL COME");
         }
     }
 }
